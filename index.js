@@ -18,6 +18,6 @@ function isPalindrome(str) {
   return str === reversed;
 }
 
-console.log(isPalindrome("robot"));
+console.log(isPalindrome("abba"));
 console.log(isPalindrome("hello"));
 // console.log(isPalindrome(prompt("String:")));    
